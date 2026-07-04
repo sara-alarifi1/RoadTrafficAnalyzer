@@ -1,5 +1,7 @@
 # 🚦 Road Traffic Analyzer
+## 📸 Project Preview
 
+![Road Traffic Analyzer](assets/rta.jpeg)
 Drop a street video into the page and get back an **annotated video** that
 detects, tracks, and counts **cars, buses, trucks, motorcycles, and people**
 using **YOLOv8** — along with live **traffic-density** readouts and a set of
