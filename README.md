@@ -4,7 +4,11 @@
 
 ![Project Poster](assets/rta.jpeg)
 
----
+<p align="center">
+  <video width="700" controls>
+    <source src="videos/Video%20Project%201.mp4" type="video/mp4">
+  </video>
+</p>
 
 ## 📊 Traffic Density Analysis
 
